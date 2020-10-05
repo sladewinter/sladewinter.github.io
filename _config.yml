@@ -1,4 +1,4 @@
-﻿# Welcome to Beautiful Jekyll!
+# Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
@@ -6,30 +6,32 @@
 # --- Required options --- #
 
 # Name of website
-title: My Portfolio
+title: My Website
 
 # Your name to show in the footer
-author: Rohit Panda
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #My Resume: “”
-  Github: “https://github.com/sladewinter”
   About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon.png"
+#title-img: /path/to/image
 
 
 # --- Footer social media links --- #
@@ -37,12 +39,12 @@ title-img: "/assets/img/avatar-icon.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mailto:sladewinter@gmail.com"
-  facebook: thepristinex
-  github: sladewinter
-#  twitter: daattali
+  email: "someone@example.com"
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
 #  reddit: yourname
-  linkedin: sladewinter
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sladewinter.github.io"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -226,5 +228,3 @@ plugins:
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
-
-theme: jekyll-theme-slate
