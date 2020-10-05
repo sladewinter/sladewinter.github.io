@@ -1,4 +1,4 @@
-﻿# Welcome to Beautiful Jekyll!
+# Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Portfolio
+title: My Website
 
 # Your name to show in the footer
-author: Rohit Panda
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
