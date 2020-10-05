@@ -1,16 +1,15 @@
----
+﻿---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Pursuing Master’s in Computer Science at the Indian Institute of Science
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My primary interest is Machine Learning and I am looking forward to learn a bit more every day:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I completed my Bachelor’s in Computer Science from Jalpaiguri Government Engineering College back in 2018.
+- After that I worked for 2 years at Robert Bosch Engineering and Business Solutions as a Software Engineer.
 
-What else do you need?
+### My passion
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I am really fond of travelling and dream of becoming a globetrotter someday.
+- I also like to click some pics while travelling though I am not particularly good at it. 
