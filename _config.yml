@@ -14,7 +14,7 @@ author: Rohit Panda
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  My Resume: “”
+  #My Resume: “”
   Github: “https://github.com/sladewinter”
   About Me: "aboutme"
 
