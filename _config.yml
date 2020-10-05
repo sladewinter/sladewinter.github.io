@@ -60,3 +60,5 @@ exclude:
   - "LICENSE"
   - "READE.md"
   - "screenshot.png"
+
+theme: jekyll-theme-slate
