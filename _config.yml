@@ -14,9 +14,9 @@ author: Rohit Panda
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Resume: "https://beautifuljekyll.com"
+  Github: "https://github.com/sladewinter"
   About Me: "aboutme"
-  My Resume: "https://beautifuljekyll.com"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
