@@ -14,9 +14,9 @@ author: Rohit Panda
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Resources: "https://beautifuljekyll.com"
-  Author's home: "https://deanattali.com"
   About Me: "aboutme"
+  My Resume: "https://beautifuljekyll.com"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
