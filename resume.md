@@ -3,45 +3,38 @@ layout: page
 title: Rohit Panda
 subtitle: Curriculum Vitae
 ---
-============
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2020-2022 (currently pursuing)
+:   **MTech, Computer Science and Engineering**; Indian Institute of Science (Bangalore)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+    *Thesis: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2014-2018
+:   **BTech, Computer Science and Engineering**; Jalpaiguri Government Engineering College (Jalpaiguri)
 
-    *Minor: Awesomeology*
+    *Project: Facial Recognition with relatively small dataset; retrained Inception v3 on the LFW dataset to achieve around 88% accuracy*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2018-2020
+:   **Software Engineer**; Robert Bosch Engineering and Business Solutions
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    *Job Role: SAP ABAP developer and SAP SD consultant; primarily worked on Forms, Reports and Enhancements in Sales and Distribution domain*
 
-* First item
+May 2017-July 2017
+:   **Intern**; Embitel Technologies (Bangalore)
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    *Intern Role: Developed a web application using Django which can act as a user-side frontend for a basic IOT system*
 
-**That Other Job You Had**
+Dec 2016-Jan 2017
+:   **Intern**; ITC Infotech India Ltd. (Kolkata)
 
-Also with a short description.
+    *Intern Role: Worked in SAP SD domain and developed an ABAP report which displays Sales Document details to the user*
 
 Technical Experience
 --------------------
