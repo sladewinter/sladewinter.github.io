@@ -35,7 +35,6 @@ css: “/css/contactme.css”
 
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
   
-<br />
 <div class="row">
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </div>
