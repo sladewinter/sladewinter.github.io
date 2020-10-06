@@ -9,24 +9,24 @@ css: “/css/contactme.css”
 
   <p>Leave me a message:</p>
 
-  <div class="row">
 
 
+    <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Your Email" title="Email">
+    </div>
 
-
-
+    <div class="col-xs-6">
       <input type="text" name="name" class="form-control input-lg" placeholder="Your Name" title="Name">
     </div>
 
 
   <input type="hidden" name="_subject" value="New submission from sladewinter.github.io">
 
-
+<div class="col-xs-6">
 
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Your Message" title="Message" required="required" rows="3"></textarea>
 
-
+</div>
 
   <input type="text" name="_gotcha" style="display:none">
 
