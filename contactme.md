@@ -5,14 +5,22 @@ subtitle: If you want to reach out
 css: “/css/contactme.css”
 ---
 
-<div id="contact">
-	<h2>Get in Touch</h2> 
-	<div id="contact-form"> 
-		<form action="https://formspree.io/f/xgepoaoe" method="POST"> 
-			<input type="hidden" name="_subject" value="Contact request from personal website" /> 
-			<input type="email" name="_replyto" placeholder="Your email" required> 
-			<textarea name="message" placeholder="Type your message" required></textarea> 
-			<button type="submit">Send</button> 
-		</form> 
-	</div> 
-</div>
+<form action="https://formspree.io/f/xgepoaoe" method="POST" class="form" id="contact-form">
+  <p>Leave me a message:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  
+  <div style="font-size: 12px; margin: -10px 0 10px;">Please be polite :)</div>
+  
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
