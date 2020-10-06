@@ -9,7 +9,7 @@ css: “/css/contactme.css”
 
   <p>Leave me a message:</p>
 
-
+  <div class="row">
 
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Your Email" title="Email">
@@ -18,11 +18,11 @@ css: “/css/contactme.css”
     <div class="col-xs-6">
       <input type="text" name="name" class="form-control input-lg" placeholder="Your Name" title="Name">
     </div>
-
+  </div>
 
   <input type="hidden" name="_subject" value="New submission from sladewinter.github.io">
 
-<div class="col-xs-6">
+<div class="row">
 
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Your Message" title="Message" required="required" rows="3"></textarea>
 
@@ -32,6 +32,8 @@ css: “/css/contactme.css”
 
   <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
   
+<div class="row">
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</div>
 
 </form>
