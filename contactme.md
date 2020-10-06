@@ -7,6 +7,8 @@ css: “/css/contactme.css”
 
 <form action="https://formspree.io/f/xgepoaoe" method="POST" class="form" id="contact-form">
 
+  <p>Leave me a message:</p>
+
   <div class="row">
 
     <div class="col-xs-6">
@@ -20,7 +22,11 @@ css: “/css/contactme.css”
 
   <input type="hidden" name="_subject" value="New submission from sladewinter.github.io">
 
+<div class="col-xs-6">
+
   <textarea type="text" name="content" class="form-control input-lg" placeholder="Your Message" title="Message" required="required" rows="3"></textarea>
+
+</div>
 
   <input type="text" name="_gotcha" style="display:none">
 
