@@ -2,6 +2,7 @@
 layout: page
 title: Contact me
 subtitle: If you want to reach out
+css: “/css/contactme.css”
 ---
 
 <div id="contact">

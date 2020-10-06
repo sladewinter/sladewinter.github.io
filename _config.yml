@@ -15,7 +15,6 @@ author: Rohit Panda
 
 navbar-links:
   My Resume: "resume"
-  My Github: "https://github.com/sladewinter"
   About Me: "aboutme"
   Contact Me: "contactme"
 
@@ -38,10 +37,10 @@ title-img: "/assets/img/title-icon.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "contactme"
+#  email: "contactme"
   facebook: thepristinex
   github: sladewinter
-#  twitter: daattali
+  twitter: rpthepristine
 #  reddit: yourname
   linkedin: sladewinter
 #  xing: yourname
