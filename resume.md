@@ -9,32 +9,29 @@ Education
 
 2020-2022 (currently pursuing)
 :   **MTech, Computer Science and Engineering**; Indian Institute of Science (Bangalore)
-
     *Thesis: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
 2014-2018
 :   **BTech, Computer Science and Engineering**; Jalpaiguri Government Engineering College (Jalpaiguri)
-
     *Project: Facial Recognition with relatively small dataset; retrained Inception v3 on the LFW dataset to achieve around 88% accuracy*
+
 
 Experience
 ----------
 
 2018-2020
 :   **Software Engineer**; Robert Bosch Engineering and Business Solutions
-
     *Job Role: SAP ABAP developer and SAP SD consultant; primarily worked on Forms, Reports and Enhancements in Sales and Distribution domain*
 
 May 2017-July 2017
 :   **Intern**; Embitel Technologies (Bangalore)
-
     *Intern Role: Developed a web application using Django which can act as a user-side frontend for a basic IOT system*
 
 Dec 2016-Jan 2017
 :   **Intern**; ITC Infotech India Ltd. (Kolkata)
-
     *Intern Role: Worked in SAP SD domain and developed an ABAP report which displays Sales Document details to the user*
+
 
 Technical Experience
 --------------------
